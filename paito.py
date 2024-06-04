@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
+#oi 
 class Grafo:
 
   def __init__(self, repr=None, direcionado=False, ponderado=False, arquivoPajek=None):
